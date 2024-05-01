@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//fungsi menghitung fpb dengan Algoritma Euclidean
 int hitungfpb(int a, int b) {
     if (b==0)
         return a;
